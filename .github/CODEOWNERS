@@ -1,11 +1,11 @@
-# default reviewers for all changes
-
-* thriveninadendla12@gmail.com
-
 # default reviewers by mail for text files
 
-*.txt @thriveni
+#.txt nadendlathriveni12@gmail.com
 
 # default reviewers by mail for htmal files
 
-*.html thriveninadendla12@gmail.com
+#.html thriveninadendla12@gmail.com
+
+*.txt nadendlathriveni12@gmail.com
+
+test1/*  thriveninadendla12@gmail.com
