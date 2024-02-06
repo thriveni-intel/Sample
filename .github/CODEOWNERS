@@ -1,6 +1,6 @@
 # default reviewers by mail for text files
 
-* nadendlathrivenitest@gmail.com saiharikachowdary00@gmail.com
+* nadendlathrivenitest@gmail.com saiharikachowdary00@gmail.com @vency5821
 
 #.txt nadendlathriveni12@gmail.com
 
@@ -8,6 +8,6 @@
 
 #.html thriveninadendla12@gmail.com
 
-*.txt nadendlathrivenitest@gmail.com
+*.txt nadendlathrivenitest@gmail.com @vency5821
 
 test1/*  nadendlathrivenitest@gmail.com
