@@ -1,0 +1,7 @@
+# default reviewers by mail for text files
+
+*.txt nadendlathriveni12@gmail.com
+
+# default reviewers by mail for htmal files
+
+*.html thriveninadendla12@gmail.com
